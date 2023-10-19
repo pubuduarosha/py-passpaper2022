@@ -1,0 +1,7 @@
+Date	Course Code	Course Name	Time	Venue
+16/10/2022	DSA 501 3.0	Mathematics for Data Science and Artificial Intelligence	9.00 am - 12.00 Noon	SMART Classroom
+16/10/2022	DSA 502 2.0	Programming for Data Science and Artificial Intelligence	2.00 pm-5.00pm	SMART Classroom
+23/10/2022	DSA 503 3.0	Artificial Intelligence: Problem Solving	9.00 am - 12.00 Noon	SMART Classroom
+23/10/2022	DSA 504 2.0	Machine Learning I	2.00 pm-4.00pm	SMART Classroom
+30/10/2022	DSA 505 3.0	Data Modelling and Management	9.00 am - 12.00 Noon	SMART Classroom
+30/10/2022	DSA 506 2.0	Artificial Intelligence: Planning	2.00 pm-4.00pm	SMART Classroom
